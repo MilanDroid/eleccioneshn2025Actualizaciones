@@ -1,0 +1,41 @@
+{
+  "actas": {
+    "pendientesVerificacionVisual": 2923,
+    "total": 19167,
+    "publicadas": 17235,
+    "espera": 2173,
+    "verificacion": 16994,
+    "inconsistencias": 2464,
+    "correctas": 14771
+  },
+  "fecha_corte": "2025-12-08 13:00:03.0",
+  "depto_code": "00",
+  "depto_name": "TODOS",
+  "candidatos": [
+    {
+      "cddto_nombres": "MARIO ENRIQUE RIVERA CALLEJAS",
+      "parpo_nombre": "PARTIDO DEMOCRATA CRISTIANO DE HONDURAS",
+      "votos": 4984
+    },
+    {
+      "cddto_nombres": "RIXI RAMONA MONCADA GODOY",
+      "parpo_nombre": "PARTIDO LIBERTAD Y REFUNDACION",
+      "votos": 554960
+    },
+    {
+      "cddto_nombres": "JORGE NELSON AVILA GUTIERREZ",
+      "parpo_nombre": "PARTIDO INNOVACION Y UNIDAD SOCIAL DEMOCRATA",
+      "votos": 23791
+    },
+    {
+      "cddto_nombres": "SALVADOR ALEJANDRO CESAR NASRALLA SALUM",
+      "parpo_nombre": "PARTIDO LIBERAL DE HONDURAS",
+      "votos": 1137560
+    },
+    {
+      "cddto_nombres": "NASRY JUAN ASFURA ZABLAH",
+      "parpo_nombre": "PARTIDO NACIONAL DE HONDURAS",
+      "votos": 1158538
+    }
+  ]
+}
