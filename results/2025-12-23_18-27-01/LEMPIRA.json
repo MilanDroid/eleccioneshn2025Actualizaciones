@@ -1,0 +1,41 @@
+{
+  "actas": {
+    "pendientesVerificacionVisual": 4,
+    "publicadas": 795,
+    "espera": 1,
+    "total": 796,
+    "verificacion": 795,
+    "inconsistencias": 26,
+    "correctas": 769
+  },
+  "fecha_corte": "2025-12-18 17:00:55.0",
+  "depto_code": "13",
+  "depto_name": "LEMPIRA",
+  "candidatos": [
+    {
+      "cddto_nombres": "MARIO ENRIQUE RIVERA CALLEJAS",
+      "parpo_nombre": "PARTIDO DEMOCRATA CRISTIANO DE HONDURAS",
+      "votos": 135
+    },
+    {
+      "cddto_nombres": "RIXI RAMONA MONCADA GODOY",
+      "parpo_nombre": "PARTIDO LIBERTAD Y REFUNDACION",
+      "votos": 43874
+    },
+    {
+      "cddto_nombres": "JORGE NELSON AVILA GUTIERREZ",
+      "parpo_nombre": "PARTIDO INNOVACION Y UNIDAD SOCIAL DEMOCRATA",
+      "votos": 261
+    },
+    {
+      "cddto_nombres": "SALVADOR ALEJANDRO CESAR NASRALLA SALUM",
+      "parpo_nombre": "PARTIDO LIBERAL DE HONDURAS",
+      "votos": 28449
+    },
+    {
+      "cddto_nombres": "NASRY JUAN ASFURA ZABLAH",
+      "parpo_nombre": "PARTIDO NACIONAL DE HONDURAS",
+      "votos": 84043
+    }
+  ]
+}
